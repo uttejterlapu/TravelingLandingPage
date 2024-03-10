@@ -188,6 +188,7 @@ body {
 
             .places-card {
                 border-radius: 25px;
+                height: 340px;
                 width: 300px;
                 position: relative;
                 box-shadow: 0px 8px 15px lightgray;
